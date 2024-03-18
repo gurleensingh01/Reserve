@@ -1,0 +1,9 @@
+﻿Y2042,EC-2209,Error Canada,394,Shubhampreet singh,indian,Active
+Z2818,SL-8720,Scare Airlines,366,shubham,american,Active
+G4563,AS-9418,AirShaker,557,shubhampreet Singh,moroco,Active
+X9986,AL-1323,Always Late Airlines,799,shubham,thailand,Active
+G7521,AL-8144,Always Late Airlines,164,,,Active
+O6199,AL-8144,Always Late Airlines,164,,,Active
+Z5430,VA-9950,Vertical Airways,270,,,Active
+M5564,MA-2348,Mediocre Airlines,270,shubham,singh,Active
+M1030,VA-9950,Vertical Airways,270,shubham,indian,Active
